@@ -18,7 +18,7 @@ In this project you will find will find the complete exercise corresponding to s
 1. Clone the repo
 
 ```sh
-git clone https://github.com/Helekin/react-02-easy-goal-list.git
+git clone https://github.com/Helekin/react-03-easy-user-creator.git
 ```
 
 2. Create your .env file and use your credentials (optional)
